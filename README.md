@@ -1,2 +1,2 @@
 # SM-Ware
-This repository is the start of School Management Ware. An open source software where all kinds of institutions can utlize to manage their students and information. 
+This repository is the start of an on-cloud premise appplication (Portfolio). An open source software or hosted where all kinds of haelthcare facilities can utlize to manage their patient records.  
